@@ -1,8 +1,11 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 ## Dasmer Singh
 
 ![profile](images/profile.jpg)
 
-Hey!
+Hey! I'm Dasmer
 
-<button class="button-save large">Big Fat Button</button>  
-<img src="images/interview.jpg" height="200"><img src="images/audience.jpg" height="200"><img src="images/close_up.jpg" height="200">
+
+<a href="https://www.linkedin.com/in/dasmer" class="fa fa-linkedin"></a>
+<a href="https://twitter.com/dasmersingh" class="fa fa-twitter"></a>
