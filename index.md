@@ -11,8 +11,12 @@
 
 ![profile](images/profile.jpg)
 
-Hey! I'm Dasmer
+Hey! I'm Dasmer. I currently work at [Venmo][2] as a Commerce Product Manager in New York. In the fall, I will be a full-time student at the [Stanford Graduate School of Business][1] in California.
 
 
-<a href="https://www.linkedin.com/in/dasmer" class="fa fa-linkedin"></a>
 <a href="https://twitter.com/dasmersingh" class="fa fa-twitter"></a>
+<a href="https://www.linkedin.com/in/dasmer" class="fa fa-linkedin"></a>
+
+
+[1] https://www.gsb.stanford.edu/
+[2] https://www.venmo.com
