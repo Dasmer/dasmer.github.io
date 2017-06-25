@@ -7,7 +7,7 @@
 
 Hey! I'm Dasmer.
 I currently work at [Venmo][2] as a Commerce Product Manager in New York.
-In the fall, I will be a full-time student at the [Stanford Graduate School of Business][1] in California. I [tweet](https:www.twitter.com/dasmersingh) at @dasmersingh. I [speak](/talks) about FinTech, Product Managment and Engineering. I build [apps](/apps). I love to [run](/runs).
+In the fall, I will be a full-time student at the [Stanford Graduate School of Business][1] in California. I [tweet](https://www.twitter.com/dasmersingh) at @dasmersingh. I [talk](/talks) about FinTech, Product Managment and Engineering. I [build](/apps) apps. I [run](/runs).
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dasmer" class="fa fa-linkedin"></a>
