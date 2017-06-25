@@ -18,5 +18,5 @@ Hey! I'm Dasmer. I currently work at [Venmo][2] as a Commerce Product Manager in
 <a href="https://www.linkedin.com/in/dasmer" class="fa fa-linkedin"></a>
 
 
-[1] https://www.gsb.stanford.edu/
-[2] https://www.venmo.com
+[1]: https://www.gsb.stanford.edu/
+[2]: https://www.venmo.com
