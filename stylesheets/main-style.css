@@ -30,6 +30,10 @@ a:hover {
   text-decoration: underline;
 }
 
+img {
+  max-width: 400
+}
+
 .fa {
   font-size: 30px;
   margin: 5px 2px;
