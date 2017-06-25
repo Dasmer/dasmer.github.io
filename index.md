@@ -9,7 +9,7 @@ a { color: 8C1515; }
 </style>
 
 
-### Dasmer Singh
+# Dasmer Singh
 
 ![profile](images/profile.jpg)
 
