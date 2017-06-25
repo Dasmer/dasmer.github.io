@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
-  padding: 10px;
+  padding: 15px;
   font-size: 15px;
   width: 15px;
   text-align: center;
