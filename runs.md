@@ -4,6 +4,7 @@
 
 | Date           | Event                                  | Type          | Location                       |
 | -------------- | -------------------------------------- | ------------- | ------------------------------ |
+| 14 October 2017 | [Tough Mudder Half NorCal][4] | 5 Mile Obstacle Course | Sonoma, CA |
 | 12 August 2017 | [NYCRUNS Governors Island 5K & 10K][3] | 10K           | Nolan Park, Governors Island, NY |
 
 ## Past Races
@@ -19,3 +20,4 @@
 [1b]: http://timing.boardwalkrunning.com/2017-Fathers-Day-Half-Marathon-Rockaway-Park-NY?status=live
 [2]: https://www.vaisakhi5k.com/
 [3]: https://nycruns.com/races/?race=nycruns-firecracker-5k--10k
+[4]: https://www.eventbrite.com/e/tough-mudder-half-norcal-saturday-october-14-2017-registration-31883880545
