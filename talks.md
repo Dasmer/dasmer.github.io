@@ -3,15 +3,11 @@
 One of my goals is to speak at more places and events.
 If you'd like me to speak at a panel, competition or conference, email me at <dasmersingh@gmail.com>.
 
-## Upcoming Events
-
-| Date        | Role | Event | Location | Talk Title (if applicable) |
-| ----------- | ----- | ----- | ----- | -------- |
-
 ## Past Events
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
+| 03 Aug 2017 | Speaker | The Summer School of The New York Times for High School Students Visit| Venmo HQ, New York | The History of Venmo |
 | 11 July 2017 | Speaker | [Entrepreneurship Bootcamp Series][20] | WeWork Soho, New York | [How To Hire The Right Tech Team][20b] |
 | 10 July 2017 | Speaker |  [Civic Hall Events][19] | Civic Hall, New York | [#JustVenmoMe: Sharing Code with Open Source][21] |
 | 01 June 2017 | Speaker |  Flatiron Product Series | The Flatiron School, New York | [The Workflows of Product Management][18] |
