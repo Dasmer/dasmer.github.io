@@ -26,6 +26,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 | 03 April 2015 | Panelist | Moving Up the Internship Ladder - AKPsi Panel |Columbia University,  New York |- |
 | 29 August 2014 | Speaker | [A Swift Start][3] | The Flatiron School, New York | [Learn From Thy Users][4] |
 | 21 July 2014 | Speaker | [iOS Devs NYC][2] | The Flatiron School, New York | Integrate the Venmo SDK |
+| 20 May 2013 | Speaker | [SEAS (Graduation) Class Day][23] | Columbia University,  New York | - |
 
 [1]: http://www.iosdevuk.com/
 [2]: http://www.meetup.com/iOS-Devs-NYC/events/194385732/
@@ -53,3 +54,4 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 [20b]: https://speakerdeck.com/dasmer/hiring-the-right-technology-team
 [21]: https://speakerdeck.com/dasmer/sharing-code-with-open-source
 [22a]: https://www.nytedu.com/pre-college/
+[23]: http://engineering.columbia.edu/engineering-class-day-and-commencement-2013
