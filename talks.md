@@ -5,7 +5,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
  | Date        | Role | Event | Location | Talk Title (if applicable) |
  | ----------- | ----- | ----- | ----- | -------- |
- | 11 Oct 2017 | Speaker | Guest Lecture | UC Berkeley | [The Workflows of Product Management][18] |
+ | 11 Oct 2017 | Speaker | Guest Lecture | UC Berkeley, California | [The Workflows of Product Management][18] |
 
 ## Past Events
 
