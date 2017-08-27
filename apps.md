@@ -4,6 +4,7 @@ All of the apps I've ever written in the order of my first contribution date. Th
 
 | Name |  Icon | Description  | Publish Date | Source Code |
 | ---- | ----- | ------------ |  ------------| ----------- |
+| [Tandoor Palace][13] | <img src="http://i.imgur.com/hJ7hPL5.png" width="400"> |  Tandoor Palace is an app that enables customers to order ahead so that they can pick up their meal without waiting on line. It also gives them quick access to the restaurant's menu and easily keep track of daily specials. | 08 August 2017 | N/A |
 | [Paste][1] | <img src="https://static-s.aa-cdn.net/img/ios/1070640289/ed135825ebaea72b7b4dcc266e2eab1a" width="400"> |  Paste is an emoji search app to quickly search for and copy emoji and paste them anywhere else | 07 January 2016 | [Link][1a] |
 | [RemindMe][2] | <img src="https://static-s.aa-cdn.net/img/ios/792456128/53bc3ea0afbbedbdd21a2ce07e6c4796" width="200"> | Have you ever thought to text someone for a birthday, special event, or anything else on a later date, but then forget to do it? Schedule to send a text or email at some time in the future | 10 January 2014 | [Link][2a] |
 | [WhosUp][4] | <img src="https://static-s.aa-cdn.net/img/ios/767987314/c7780ad293ddf55349fc2a0800b9c133" width="200"> | A fun Facebook trivia game to play with friends. Sign in with Facebook and choose a deck of friends. Put your phone on your forehead and a friend from the deck will show up on your screen. Your friends will give you clues to help you guess who it is. If you get it right turn your phone face down. If you want to pass turn your phone face up. When the round is over, playback and share the hilarious video! | 04 December 2013 | N/A |
@@ -41,3 +42,4 @@ All of the apps I've ever written in the order of my first contribution date. Th
 [11]: http://my.appprofile.co/
 [11b]: https://www.linkedin.com/in/chrismaddern
 [12]: http://crowdhopper.com
+[13]: https://itunes.apple.com/us/app/tandoor-palace/id1264992198
