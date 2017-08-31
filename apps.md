@@ -1,4 +1,4 @@
-All of the apps I've ever written in the order of my first contribution date. These lists are split into personal apps and projects where I contributed a majority or all of the code 📱🖊:octocat:
+All of the apps I've ever written in the order of my first contribution date. These lists are split into personal apps and projects where I contributed a significant portion or all of the code 📱🖊
 
 ## Apps Owned
 
