@@ -3,14 +3,11 @@
 One of my goals is to speak at more places and events.
 If you'd like me to speak at a panel, competition or conference, email me at <dasmersingh@gmail.com>.
 
- | Date        | Role | Event | Location | Talk Title (if applicable) |
- | ----------- | ----- | ----- | ----- | -------- |
- | 11 Oct 2017 | Speaker | Guest Lecture | UC Berkeley, California | [The Workflows of Product Management][18] |
-
 ## Past Events
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
+| 11 Oct 2017 | Speaker | [Valley Consulting Group][24a] Guest Speaker | UC Berkeley, California | [Product Teams][24b] |
 | 03 Aug 2017 | Speaker | [NYT EDU][22a] High School Visit| Venmo HQ, New York | The History of Venmo |
 | 11 July 2017 | Speaker | [Entrepreneurship Bootcamp Series][20] | WeWork Soho, New York | [How To Hire The Right Tech Team][20b] |
 | 10 July 2017 | Speaker |  [Civic Hall Events][19] | Civic Hall, New York | [#JustVenmoMe: Sharing Code with Open Source][21] |
@@ -59,3 +56,5 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 [21]: https://speakerdeck.com/dasmer/sharing-code-with-open-source
 [22a]: https://www.nytedu.com/pre-college/
 [23]: http://engineering.columbia.edu/engineering-class-day-and-commencement-2013
+[24a]: http://valleyconsultinggroup.org/
+[24b]: https://speakerdeck.com/dasmer/product-teams
