@@ -4,7 +4,9 @@
 
 | Date           | Event                                  | Type          | Location                       |
 | -------------- | -------------------------------------- | ------------- | ------------------------------ |
-| 14 October 2017 | [Tough Mudder Half NorCal][4] | 5 Mile Obstacle Course | Sonoma, CA |
+| 20 May 2018 | [Bay to Breakers][6] | 12K | San Francisco, CA |
+| 20 May 2018 | [Hoku Relay][5] | 134 Mile Group Relay | Oahu, Hawaii |
+| 7 January 2018 | [Hot Chocolate 15K][4] | 15K | Golden Gate Park, San Francisco, CA |
 
 ## Past Races
 
@@ -21,4 +23,7 @@
 [2]: https://www.vaisakhi5k.com/
 [3]: https://nycruns.com/races/?race=nycruns-firecracker-5k--10k
 [3b]: https://nycruns.com/race-results/?race=NYCRUNS-governors-island-5k-10k-2
-[4]: https://www.eventbrite.com/e/tough-mudder-half-norcal-saturday-october-14-2017-registration-31883880545
+[4]: https://www.hotchocolate15k.com/sanfrancisco/race
+[5]: http://hokurelay.com/
+[6]: https://baytobreakers.com/
+
