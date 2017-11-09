@@ -5,7 +5,7 @@
 | Date           | Event                                  | Type          | Location                       |
 | -------------- | -------------------------------------- | ------------- | ------------------------------ |
 | 20 May 2018 | [Bay to Breakers][6] | 12K | San Francisco, CA |
-| 20 May 2018 | [Hoku Relay][5] | 134 Mile Group Relay | Oahu, Hawaii |
+| 17-18 Feb 2018 | [Hoku Relay][5] | 134 Mile Group Relay | Oahu, Hawaii |
 | 7 January 2018 | [Hot Chocolate 15K][4] | 15K | Golden Gate Park, San Francisco, CA |
 
 ## Past Races
