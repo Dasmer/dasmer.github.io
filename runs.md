@@ -12,6 +12,7 @@
 
 | Date           | Event                 | Type          | Location                       | Rank | Racer Count | Time    | Pace  |
 | -------------- | --------------------- | ------------- | ------------------------------ | ---  | ------------| ------- | ----- |
+| 12 Nov 2017   | [Blazing Trails for Autism][7] | 4mi  | Great Neck, Long Island, NY | [21][7b]   | 405    | 27:33 | 6:44 |
 | 12 Aug 2017   | [NYCRUNS Governors Island 5K & 10K][3] | 10K  | Nolan Park, Governors Island, NY | [21][3b]   | 518    | 43:43 | 6:58 |
 | 17 June 2017   | [Rockapulco Run][1]        | Half Marathon | Rockaway Beach, NY             | [12][1b]   | 126         | 1:42:02 | 07:47 |
 | 14 May 2017    | Long Island 5K Run    | 5K            | Eisenhower Park, Woodhaven, NY | 4    | 100+        | 20:31 | 06:36 |
@@ -26,4 +27,5 @@
 [4]: https://www.hotchocolate15k.com/sanfrancisco/race
 [5]: http://hokurelay.com/
 [6]: https://baytobreakers.com/
-
+[7]: https://runsignup.com/Race/NY/GreatNeck/BlazingTrail4MileRunWalkforAutism
+[7b]: http://jms.racetecresults.com/results.aspx?CId=16370&RId=290
