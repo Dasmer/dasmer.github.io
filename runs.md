@@ -6,12 +6,13 @@
 | -------------- | -------------------------------------- | ------------- | ------------------------------ |
 | 20 May 2018 | [Bay to Breakers][6] | 12K | San Francisco, CA |
 | 17-18 Feb 2018 | [Hoku Relay][5] | 134 Mile Group Relay | Oahu, Hawaii |
-| 7 January 2018 | [Hot Chocolate 15K][4] | 15K | Golden Gate Park, San Francisco, CA |
+| 7 Jan 2018 | [Hot Chocolate 15K][4] | 15K | Golden Gate Park, San Francisco, CA |
 
 ## Past Races
 
 | Date           | Event                 | Type          | Location                       | Rank | Racer Count | Time    | Pace  |
 | -------------- | --------------------- | ------------- | ------------------------------ | ---  | ------------| ------- | ----- |
+| 01 Jan 2018   | [Commitment Day 5K][8] | 5K            | Long Island, NY (Windchill Temperature: -1℉) | 1   | ~40          | 21:44 | 6:79 |
 | 12 Nov 2017   | [Blazing Trails for Autism][7] | 4mi  | Great Neck, Long Island, NY | [21][7b]   | 405    | 27:33 | 6:44 |
 | 12 Aug 2017   | [NYCRUNS Governors Island 5K & 10K][3] | 10K  | Nolan Park, Governors Island, NY | [21][3b]   | 518    | 43:43 | 6:58 |
 | 17 June 2017   | [Rockapulco Run][1]        | Half Marathon | Rockaway Beach, NY             | [12][1b]   | 126         | 1:42:02 | 07:47 |
@@ -29,3 +30,4 @@
 [6]: https://baytobreakers.com/
 [7]: https://runsignup.com/Race/NY/GreatNeck/BlazingTrail4MileRunWalkforAutism
 [7b]: http://jms.racetecresults.com/results.aspx?CId=16370&RId=290
+[8]: https://www.facebook.com/events/563070407358375/
