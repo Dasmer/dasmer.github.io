@@ -12,7 +12,7 @@
 | Date           | Event                 | Type          | Location                       | Rank | Racer Count | Time    | Pace  |
 | -------------- | --------------------- | ------------- | ------------------------------ | ---  | ------------| ------- | ----- |
 | 07 Jan 2018   | [Hot Chocolate 15K][4] | 15K           | Golden Gate Park, San Francisco, CA| [119][4b] | 5,428 | 1:08:06 | 7:19 |
-| 01 Jan 2018   | [Commitment Day 5K][8] | 5K            | Long Island, NY *Windchill Temp: -1℉ | 1   | ~40          | 21:44 | 6:59 |
+| 01 Jan 2018   | [Commitment Day 5K][8] | 5K            | Long Island, NY *Windchill Temp: [-1℉][8b] | 1   | ~40          | 21:44 | 6:59 |
 | 12 Nov 2017   | [Blazing Trails for Autism][7] | 4mi  | Great Neck, Long Island, NY | [21][7b]   | 405    | 27:33 | 6:44 |
 | 12 Aug 2017   | [NYCRUNS Governors Island 5K & 10K][3] | 10K  | Nolan Park, Governors Island, NY | [21][3b]   | 518    | 43:43 | 6:58 |
 | 17 June 2017   | [Rockapulco Run][1]        | Half Marathon | Rockaway Beach, NY             | [12][1b]   | 126         | 1:42:02 | 07:47 |
@@ -32,3 +32,4 @@
 [7]: https://runsignup.com/Race/NY/GreatNeck/BlazingTrail4MileRunWalkforAutism
 [7b]: http://jms.racetecresults.com/results.aspx?CId=16370&RId=290
 [8]: https://www.facebook.com/events/563070407358375/
+[8b]:https://www.wunderground.com/history/airport/KFRG/2018/1/1/DailyHistory.html?req_city=Syosset&req_state=NY&req_statename=New+York&reqdb.zip=11773&reqdb.magic=1&reqdb.wmo=99999
