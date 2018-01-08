@@ -6,12 +6,12 @@
 | -------------- | -------------------------------------- | ------------- | ------------------------------ |
 | 20 May 2018 | [Bay to Breakers][6] | 12K | San Francisco, CA |
 | 17-18 Feb 2018 | [Hoku Relay][5] | 134 Mile Group Relay | Oahu, Hawaii |
-| 7 Jan 2018 | [Hot Chocolate 15K][4] | 15K | Golden Gate Park, San Francisco, CA |
 
 ## Past Races
 
 | Date           | Event                 | Type          | Location                       | Rank | Racer Count | Time    | Pace  |
 | -------------- | --------------------- | ------------- | ------------------------------ | ---  | ------------| ------- | ----- |
+| 07 Jan 2018   | [Hot Chocolate 15K][4] | 15K           | Golden Gate Park, San Francisco, CA| 119[4b] | 5,428 | 1:08:06 | 7:19 |
 | 01 Jan 2018   | [Commitment Day 5K][8] | 5K            | Long Island, NY *Windchill Temp: -1℉ | 1   | ~40          | 21:44 | 6:59 |
 | 12 Nov 2017   | [Blazing Trails for Autism][7] | 4mi  | Great Neck, Long Island, NY | [21][7b]   | 405    | 27:33 | 6:44 |
 | 12 Aug 2017   | [NYCRUNS Governors Island 5K & 10K][3] | 10K  | Nolan Park, Governors Island, NY | [21][3b]   | 518    | 43:43 | 6:58 |
@@ -26,6 +26,7 @@
 [3]: https://nycruns.com/races/?race=nycruns-firecracker-5k--10k
 [3b]: https://nycruns.com/race-results/?race=NYCRUNS-governors-island-5k-10k-2
 [4]: https://www.hotchocolate15k.com/sanfrancisco/race
+[4b]: https://hub.enmotive.com/events/2018-hot-chocolate-15k-5k-san-francisco/registrants/54273-dasmer-singh
 [5]: http://hokurelay.com/
 [6]: https://baytobreakers.com/
 [7]: https://runsignup.com/Race/NY/GreatNeck/BlazingTrail4MileRunWalkforAutism
