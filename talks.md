@@ -33,7 +33,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 [2]: http://www.meetup.com/iOS-Devs-NYC/events/194385732/
 [3]: http://aswiftstart.com/
 [4]: https://speakerdeck.com/dasmer/learn-from-thy-users
-[5]: http://coreatcu.com/corecircles
+[5]: https://www.coreatcu.com/corecircles
 [6]: http://columbiaentrepreneurs.org/CEONEW2015/lion-hack-cbs-2015/
 [7]: https://www.evensi.us/core-fintech-amp-social-entrepreneurship-elevator-pitch/175092386
 [8a]: http://www.uikonf.com
