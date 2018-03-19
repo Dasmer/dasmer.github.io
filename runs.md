@@ -1,4 +1,5 @@
-<img src="images/runs/main.jpg" height="250">
+<img src="images/runs/main.jpg" height="250"><img src="images/runs/hawaii.jpg" height="250">
+
 
 ## Upcoming Races
 
