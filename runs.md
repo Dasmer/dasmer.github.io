@@ -5,13 +5,12 @@
 
 | Date           | Event                                  | Type          | Location                       |
 | -------------- | -------------------------------------- | ------------- | ------------------------------ |
-| 20 May 2018 | [Bay to Breakers][6] | 12K | San Francisco, CA |
-| 17-18 Feb 2018 | [Hoku Relay][5] | 134 Mile Group Relay | Oahu, Hawaii |
 
 ## Past Races
 
 | Date           | Event                 | Type          | Location                       | Rank | Racer Count | Time    | Pace  |
 | -------------- | --------------------- | ------------- | ------------------------------ | ---  | ------------| ------- | ----- |
+| 17-18 Feb 2018 | [Hoku Relay][5]       | 134 Mile Group Relay (Personal 16.1 miles within 3 legs) | Oahu, Hawaii | 2 | N/A (Relay) | N/A (Relay) | N/A (Relay) |
 | 07 Jan 2018   | [Hot Chocolate 15K][4] | 15K           | Golden Gate Park, San Francisco, CA| [119][4b] | 5,428 | 1:08:06 | 7:19 |
 | 01 Jan 2018   | [Commitment Day 5K][8] | 5K            | Long Island, NY *Windchill Temp: [-1℉][8b] | 1   | ~40          | 21:44 | 6:59 |
 | 12 Nov 2017   | [Blazing Trails for Autism][7] | 4mi  | Great Neck, Long Island, NY | [21][7b]   | 405    | 27:33 | 6:44 |
