@@ -1,4 +1,5 @@
 | Date           | Title                 | Platform          |
+| -------------- | --------------------- | ------------- | 
 | 06 Dec 2018 | [Nala offers internet-free mobile payments to Sub-Saharan Africa][1] | StartU |
 | 29 Nov 2018 | [Mylabox enables B2C International E-Commerce][2]] | StartU |
 | 10 Nov 2018 | [Stanford’s Mani.Me 3D-Prints the Perfect Manicure][3] | StartU |
