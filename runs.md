@@ -10,7 +10,7 @@
 
 | Date           | Event                 | Type          | Location                       | Rank | Racer Count | Time    | Pace  |
 | -------------- | --------------------- | ------------- | ------------------------------ | ---  | ------------| ------- | ----- |
-| 01 Jan 2019   | [Commitment Day 5K][9] | 5K            | Long Island, NY                | 4    | 80+           | 21:08   | 6:50 |
+| 01 Jan 2019   | [Commitment Day 5K][10] | 5K            | Long Island, NY                | 4    | 80+           | 21:08   | 6:50 |
 | 11 Aug 2018   | [Courage Over Cancer][9] | 10K         | Crissy Fields, San Francisco, CA| [19][9b] | 160 | 45:55 | 7:24 |
 | 17-18 Feb 2018 | [Hoku Relay][5]       | 134 Mile Group Relay (Personal 16.1 miles within 3 legs) | Oahu, Hawaii | 2 | N/A (Relay) | N/A (Relay) | N/A (Relay) |
 | 07 Jan 2018   | [Hot Chocolate 15K][4] | 15K           | Golden Gate Park, San Francisco, CA| [119][4b] | 5,428 | 1:08:06 | 7:19 |
@@ -37,3 +37,4 @@
 [8b]:https://www.wunderground.com/history/airport/KFRG/2018/1/1/DailyHistory.html?req_city=Syosset&req_state=NY&req_statename=New+York&reqdb.zip=11773&reqdb.magic=1&reqdb.wmo=99999
 [9]: https://www.courageovercancersf.com/
 [9b]: https://www.athlinks.com/event/249682/results/Event/755569/Course/1279433/Bib/2157
+[10]: https://www.facebook.com/events/287568968780244/
