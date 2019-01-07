@@ -1,57 +1,82 @@
-<html>
+<!DOCTYPE html>
+<html lang="en-US">
 
 <head>
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="stylesheets/main-style.css" />
-<title> Dasmer Singh </title>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-  ga('create', 'UA-69567219-2', 'auto');
-  ga('send', 'pageview');
+	<!-- SEO -->
+	<title>Dasmer Singh</title>
+	<meta name="description" content="Me is a slick, personal layout for any individual wanting a minimal online presence. Features include a big background image or video, logo, bio and icons." />
+	<meta name="robots" content="index, follow" />
+	<meta name="referrer" content="always" />
 
-  /**
-* Function that tracks a click on an outbound link in Analytics.
-* This function takes a valid URL string as an argument, and uses that URL string
-* as the event label. Setting the transport method to 'beacon' lets the hit be sent
-* using 'navigator.sendBeacon' in browser that support it.
-*/
-var trackOutboundLink = function(url) {
-   ga('send', 'event', 'outbound', 'click', url, {
-     'transport': 'beacon',
-     'hitCallback': function(){document.location = url;}
-   });
-}
-</script>
+	<!-- Social & Open Graph -->
+	<meta property="og:title" content="Dasmer Singh" />
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+	<!-- Styles -->
+	<link rel='stylesheet' href='assets/css/me.css' type='text/css' media='screen' />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
 
 </head>
 
+<body id="fullsingle" class="page-template-page-fullsingle-me">
 
-<body>
-<!-- <p><img src="images/profile.jpg"> </p> -->
+<div class="fs-me">
 
-<h1>Hey! I'm Dasmer.</h1>
-<div class="content">
-<p>I currently study at the Stanford Graduate School of Business</p>
-I <a href="/talks" onclick="trackOutboundLink('http://www.dasmer.com/talks'); return false;">speak</a> about FinTech, Product Managment and Engineering. <br />
-I <a href="https://www.twitter.com/dasmersingh" onclick="trackOutboundLink('https://www.twitter.com/dasmersingh'); return false;">tweet</a> @dasmersingh (follow me).<br />
-I <a href="/apps" onclick="trackOutboundLink('http://www.dasmer.com/apps'); return false;">build</a> apps. <br />
-I <a href="/runs" onclick="trackOutboundLink('http://www.dasmer.com/runs'); return false;">run</a>. <br />
+	<!-- Content Container -->
+	<div class="me-content">
+
+		<div class="logo">
+
+			<img src="images/logo.png" alt="Logo" />
+
+		</div>
+
+		<div class="bio">
+
+			<p>I build <a href="/apps">iPhone apps</a>, talk at <a href="/talks">conferences</a>, write <a href="/write">words</a>, run <a href="/runs">races</a>, and spill thoughts on <a href="twitter.com/dasmersingh">Twitter</a>. Send me a <a href="mailto:hello@dasmer.com">note</a> :)</p>
+
+		</div>
+
+		<div class="connect">
+
+		<a href="https://www.twitter.com/dasmersingh" onclick="trackOutboundLink('https://www.twitter.com/dasmersingh'); return false;" class="fa fa-twitter"></a>
+		<a href="https://www.linkedin.com/in/dasmer" onclick="trackOutboundLink('https://www.linkedin.com/in/dasmer'); return false;" class="fa fa-linkedin"></a>
+		<a href="https://www.facebook.com/dasmer" onclick="trackOutboundLink('https://www.facebook.com/dasmer'); return false;" class="fa fa-facebook"></a>
+		<a href="https://www.instagram.com/dasmer" onclick="trackOutboundLink('https://www.instagram.com/dasmer'); return false;" class="fa fa-instagram"></a>
+		<a href="mailto:hello@dasmer.com" onclick="trackOutboundLink('mailto:hello@dasmer.com'); return false;" class="fa fa-envelope"></a>
+	</div>
+
+
+		<div class="network">
+
+			<ul>
+
+			</ul>
+
+		</div>
+
+		<div class="credit">
+
+			<p>&copy;2019 <a href="#">Dasmer Singh</a> <!-- - <a href="https://onepagelove.com/me">Me Template</a> by <a href="https://onepagelove.com">One Page Love</a></p> -->
+
+			<!--
+			To edit this credit you can remove the CCA 3.0 license for only $5 here: https://onepagelove.com/me
+			this really helps contribute towards us developing more templates and means the world to me!
+			Cheers, Rob (@robhope)
+			-->
+
+		</div>
+
+	</div>
+
 </div>
 
-<p align="center">
-<a href="https://www.twitter.com/dasmersingh" onclick="trackOutboundLink('https://www.twitter.com/dasmersingh'); return false;" class="fa fa-twitter"></a>
-<a href="https://www.linkedin.com/in/dasmer" onclick="trackOutboundLink('https://www.linkedin.com/in/dasmer'); return false;" class="fa fa-linkedin"></a>
-<a href="https://www.facebook.com/dasmer" onclick="trackOutboundLink('https://www.facebook.com/dasmer'); return false;" class="fa fa-facebook"></a>
-<a href="https://www.instagram.com/dasmer" onclick="trackOutboundLink('https://www.instagram.com/dasmer'); return false;" class="fa fa-instagram"></a>
-<a href="mailto:hello@dasmer.com" onclick="trackOutboundLink('mailto:hello@dasmer.com'); return false;" class="fa fa-envelope"></a>
-</p>
 </body>
-
 </html>
