@@ -1,7 +1,7 @@
 | Date           | Title                 | Platform          |
 | -------------- | --------------------- | ------------- |
 | 06 Dec 2018 | [Nala offers internet-free mobile payments to Sub-Saharan Africa][1] | StartU |
-| 29 Nov 2018 | [Mylabox enables B2C International E-Commerce][2]] | StartU |
+| 29 Nov 2018 | [Mylabox enables B2C International E-Commerce][2] | StartU |
 | 10 Nov 2018 | [Stanford’s Mani.Me 3D-Prints the Perfect Manicure][3] | StartU |
 | 17 Oct 2018 | [Verix API Digitizes Income Verification Process][5] | StartU |
 | 12 July 2018 | [CoinTracker Streamlines Tax Filing for Cryptocurrency][4] | StartU |
