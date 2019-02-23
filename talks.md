@@ -7,7 +7,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
-| 19 Feb 2019 | Panelist | Product Manager Pitch Panel | Stanford Graduate School of Business, California | - |
+| 19 Feb 2019 | Panelist | Product Manager Night | Stanford Graduate School of Business, California | - |
 | 11 Oct 2017 | Speaker | [Valley Consulting Group][24a] Guest Speaker | UC Berkeley, California | [Product Teams][24b] |
 | 03 Aug 2017 | Speaker | [NYT EDU][22a] High School Visit| Venmo HQ, New York | The History of Venmo |
 | 11 July 2017 | Speaker | [Entrepreneurship Bootcamp Series][20] | WeWork Soho, New York | [How To Hire The Right Tech Team][20b] |
