@@ -1,5 +1,7 @@
 | Date           | Title                 | Platform          |
 | -------------- | --------------------- | ------------- |
+| 16 Mar 2019 | [Build a restaurant menu webpage from an excel spreadsheet with Piatto][10] | Medium |
+| 10 Mar 2019 | [Tax per mile, not per gallon][9] | Medium |
 | 06 Dec 2018 | [Nala offers internet-free mobile payments to Sub-Saharan Africa][1] | StartU |
 | 29 Nov 2018 | [Mylabox enables B2C International E-Commerce][2] | StartU |
 | 10 Nov 2018 | [Stanford’s Mani.Me 3D-Prints the Perfect Manicure][3] | StartU |
@@ -17,3 +19,5 @@
 [6]: https://thestartu.com/crimson-education-uses-data-to-personalize-online-mentoring/
 [7]: https://thestartu.com/synapse-ai-makes-airport-security-faster-more-secure/
 [8]: https://thestartu.com/apothery-producing-hemp-cbd-infused-cashed-milks/
+[9]: https://medium.com/@dasmersingh/tax-per-mile-not-per-gallon-b06c5ff07a63
+[10]: https://medium.com/@dasmersingh/build-a-restaurant-menu-webpage-from-an-excel-spreadsheet-with-piatto-2baf37ab0dea
