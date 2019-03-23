@@ -1,5 +1,6 @@
 | Date           | Title                 | Platform          |
 | -------------- | --------------------- | ------------- |
+| 23 Mar 2019 | [Empty Tables — Restaurant Technology][11] | Medium |
 | 16 Mar 2019 | [Build a restaurant menu webpage from an excel spreadsheet with Piatto][10] | Medium |
 | 10 Mar 2019 | [Tax per mile, not per gallon][9] | Medium |
 | 06 Dec 2018 | [Nala offers internet-free mobile payments to Sub-Saharan Africa][1] | StartU |
@@ -21,3 +22,4 @@
 [8]: https://thestartu.com/apothery-producing-hemp-cbd-infused-cashed-milks/
 [9]: https://medium.com/@dasmersingh/tax-per-mile-not-per-gallon-b06c5ff07a63
 [10]: https://medium.com/@dasmersingh/build-a-restaurant-menu-webpage-from-an-excel-spreadsheet-with-piatto-2baf37ab0dea
+[11]: https://medium.com/@dasmer/restaurant-technology-part-1-empty-tables-4dc8d57deb6f
