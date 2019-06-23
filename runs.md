@@ -10,8 +10,8 @@
 
 | Date           | Event                 | Type          | Location                       | Rank | Racer Count | Time    | Pace  |
 | -------------- | --------------------- | ------------- | ------------------------------ | ---  | ------------| ------- | ----- |
-| 01 June 2019   | [Bass Lake Yosemite Tri][12] | 5K     | Bass Lake Yosemite, CA                | [6][12b]    | 75           | 6:54   | 21:25 |
-| 19 May 2019   | [Bay to Breakers][11] | 12K            | San Francisco, CA                | [692][11b]    | 16648           | 55:43   | 7:29 |
+| 01 June 2019   | [Bass Lake Yosemite Tri][12] | 5K     | Bass Lake Yosemite, CA                | [6][12b]    | 75           | 21:25   | 6:54 |
+| 19 May 2019   | [Bay to Breakers][11] | 12K            | San Francisco, CA                | [692][11b]    | 16,648           | 55:43   | 7:29 |
 | 01 Jan 2019   | [Commitment Day 5K][10] | 5K            | Long Island, NY                | 4    | 80+           | 21:08   | 6:50 |
 | 11 Aug 2018   | [Courage Over Cancer][9] | 10K         | Crissy Fields, San Francisco, CA| [19][9b] | 160 | 45:55 | 7:24 |
 | 17-18 Feb 2018 | [Hoku Relay][5]       | 134 Mile Group Relay (Personal 16.1 miles within 3 legs) | Oahu, Hawaii | 2 | N/A (Relay) | N/A (Relay) | N/A (Relay) |
