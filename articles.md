@@ -1,3 +1,4 @@
+<!-- Mixpanel --><script src="mixpanel_init_dasmer-com.js"></script><script type="text/javascript">mixpanel.track("Articles - View");</script>
 | Date           | Title                 | Platform          |
 | -------------- | --------------------- | ------------- |
 | 23 Mar 2019 | [Empty Tables — Restaurant Technology][11] | Medium |

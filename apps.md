@@ -1,3 +1,4 @@
+<!-- Mixpanel --><script src="mixpanel_init_dasmer-com.js"></script><script type="text/javascript">mixpanel.track("Apps - View");</script>
 All of the apps I've ever written in the order of my first contribution date. These lists are split into personal apps and projects where I contributed a significant portion or all of the code 📱🖊
 
 ## Apps Owned

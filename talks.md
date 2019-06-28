@@ -1,3 +1,4 @@
+<!-- Mixpanel --><script src="mixpanel_init_dasmer-com.js"></script><script type="text/javascript">mixpanel.track("Talks - View");</script>
 <img src="images/talks/interview.jpg" height="175"><img src="images/talks/audience.jpg" height="175"><img src="images/talks/close_up.jpg" height="175"><img src="images/talks/columbia.jpg" height="175">
 
 One of my goals is to speak at more places and events.
