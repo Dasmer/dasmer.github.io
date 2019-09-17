@@ -194,6 +194,7 @@ body.page-template-page-fullsingle-me {
       max-width: none; } }
   .bio a {
     color: #d57657;
+    text-decoration: underline;
     transition: 1s; }
     .bio a:hover {
       color: #FFFFFF;
