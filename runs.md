@@ -11,6 +11,8 @@
 
 | Date           | Event                 | Type          | Location                       | Rank | Racer Count | Time    | Pace  |
 | -------------- | --------------------- | ------------- | ------------------------------ | ---  | ------------| ------- | ----- |
+| 08 Sept 2019    | [Long Island 5K Run][13]    | 5K (Actual: 3.63M) | Eisenhower Park, Woodhaven, NY | 3    | 100+        | 24:40 | 06:47 |
+| 01 June 2019   | [Bass Lake Yosemite Tri][12] | 5K     | Bass Lake Yosemite, CA                | [6][12b]    | 75           | 21:25   | 6:54 |
 | 01 June 2019   | [Bass Lake Yosemite Tri][12] | 5K     | Bass Lake Yosemite, CA                | [6][12b]    | 75           | 21:25   | 6:54 |
 | 19 May 2019   | [Bay to Breakers][11] | 12K            | San Francisco, CA                | [692][11b]    | 16,648           | 55:43   | 7:29 |
 | 01 Jan 2019   | [Commitment Day 5K][10] | 5K            | Long Island, NY                | 4    | 80+           | 21:08   | 6:50 |
@@ -45,3 +47,4 @@
 [11b]: http://onlineraceresults.com/race/view_individual.php?make_printable=1&bib_num=25701&race_id=67794&type=result
 [12]: http://www.basslaketri.com/
 [12b]: http://www.cincyhalfmarathon.com/Results/basslake19.5k.htm
+[13]: https://runsignup.com/Race/NY/EastMeadow/LongIslandRun5k
