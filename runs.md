@@ -2,10 +2,12 @@
 <img src="images/runs/hawaii.jpg" height="250"><img src="images/runs/main.jpg" height="250">
 
 
-<!-- ## Upcoming Races
+## Upcoming Races
 # | Date           | Event                                  | Type          | Location                       |
 # | -------------- | -------------------------------------- | ------------- | ------------------------------ |
--->
+| 15 March 2020 | [New York City Half Marathon][15] | Half Marathon | New York, NY |
+| 09 Feb 2020 | [Miami Marathon][14] | Marathon | Miami, FL |
+
 
 ## Past Races
 
@@ -48,3 +50,5 @@
 [12]: http://www.basslaketri.com/
 [12b]: http://www.cincyhalfmarathon.com/Results/basslake19.5k.htm
 [13]: https://runsignup.com/Race/NY/EastMeadow/LongIslandRun5k
+[14]: https://www.themiamimarathon.com/
+[15]: https://www.nyrr.org/races/2020unitedairlinesnychalf
