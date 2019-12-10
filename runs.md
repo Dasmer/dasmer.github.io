@@ -1,8 +1,10 @@
-<!-- Mixpanel --><script src="mixpanel_init_dasmer-com.js"></script><script type="text/javascript">mixpanel.track("Runs - View");</script>
+<!-- Mixpanel -->
+<script src="mixpanel_init_dasmer-com.js"></script><script type="text/javascript">mixpanel.track("Runs - View");</script>
 <img src="images/runs/hawaii.jpg" height="250"><img src="images/runs/main.jpg" height="250">
 
 
 ## Upcoming Races
+
 | Date           | Event                                  | Type          | Location                       |
 | -------------- | -------------------------------------- | ------------- | ------------------------------ |
 | 15 March 2020 | [New York City Half Marathon][15] | Half Marathon | New York, NY |
