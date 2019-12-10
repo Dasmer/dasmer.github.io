@@ -3,8 +3,8 @@
 
 
 ## Upcoming Races
-# | Date           | Event                                  | Type          | Location                       |
-# | -------------- | -------------------------------------- | ------------- | ------------------------------ |
+| Date           | Event                                  | Type          | Location                       |
+| -------------- | -------------------------------------- | ------------- | ------------------------------ |
 | 15 March 2020 | [New York City Half Marathon][15] | Half Marathon | New York, NY |
 | 09 Feb 2020 | [Miami Marathon][14] | Marathon | Miami, FL |
 
