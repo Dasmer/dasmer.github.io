@@ -1,6 +1,8 @@
 <!-- Mixpanel --><script src="mixpanel_init_dasmer-com.js"></script><script type="text/javascript">mixpanel.track("Articles - View");</script>
 | Date           | Title                 | Platform          |
 | -------------- | --------------------- | ------------- |
+| 13 Jan 2020 | [Introducing ‘Insights’ to further increase transparency][14] | Medium |
+| 27 Dec 2019 | [Not Your Normal Secret Santa — A Creative Christmas Commemoration][13] | Medium |
 | 08 July 2019 | [A practical example of Search written in SwiftUI][12] | Medium |
 | 23 Mar 2019 | [Empty Tables — Restaurant Technology][11] | Medium |
 | 16 Mar 2019 | [Build a restaurant menu webpage from an excel spreadsheet with Piatto][10] | Medium |
@@ -26,3 +28,5 @@
 [10]: https://medium.com/@dasmersingh/build-a-restaurant-menu-webpage-from-an-excel-spreadsheet-with-piatto-2baf37ab0dea
 [11]: https://medium.com/@dasmer/restaurant-technology-part-1-empty-tables-4dc8d57deb6f
 [12]: https://medium.com/@dasmer/a-practical-example-of-search-written-in-swiftui-2892b68999ae
+[13]: https://medium.com/@dasmer/not-your-normal-secret-santa-a-creative-christmas-commemoration-36d183b866b1
+[14]: https://medium.com/petal/introducing-insights-to-further-increase-transparency-81f4308273d1
