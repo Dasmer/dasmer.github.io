@@ -4,6 +4,12 @@
 One of my goals is to speak at more places and events.
 If you'd like me to speak at a panel, competition or conference, email me at <dasmersingh@gmail.com>.
 
+## Upcoming Events
+
+| Date        | Role | Event | Location | Talk Title (if applicable) |
+| ----------- | ----- | ----- | ----- | -------- |
+| 21 Feb 2020 | Panelist | Wharton MBA FinTech Club Visit at Petal | Petal HQ, NY | - |
+
 ## Past Events
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
