@@ -1,6 +1,7 @@
 <!-- Mixpanel --><script src="mixpanel_init_dasmer-com.js"></script><script type="text/javascript">mixpanel.track("Articles - View");</script>
 | Date           | Title                 | Platform          |
 | -------------- | --------------------- | ------------- |
+| 13 Feb 2020 | [Unsubscribing from Unconscious Spend][15] | Medium |
 | 13 Jan 2020 | [Introducing ‘Insights’ to further increase transparency][14] | Medium |
 | 27 Dec 2019 | [Not Your Normal Secret Santa — A Creative Christmas Commemoration][13] | Medium |
 | 08 July 2019 | [A practical example of Search written in SwiftUI][12] | Medium |
@@ -30,3 +31,4 @@
 [12]: https://medium.com/@dasmer/a-practical-example-of-search-written-in-swiftui-2892b68999ae
 [13]: https://medium.com/@dasmer/not-your-normal-secret-santa-a-creative-christmas-commemoration-36d183b866b1
 [14]: https://medium.com/petal/introducing-insights-to-further-increase-transparency-81f4308273d1
+[15]: https://medium.com/petal/unsubscribing-from-unconscious-spend-a61e1066088c
