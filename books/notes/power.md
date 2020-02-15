@@ -1,6 +1,6 @@
 # Power: Why Some People Have It—and Others Don't
-## Jeffery Pfeffer
+By Jeffery Pfeffer
 
-### Notes
+## Notes
 
-#### Introduction
+### Introduction
