@@ -16,6 +16,8 @@
 | 1 July 2018 | [Crimson Education uses data to match mentors][6] | StartU |
 | 28 May 2018 | [Apothery Producing Hemp-CBD Infused Cashew Milks][8] | StartU |
 | 03 March 2018 | [Synapse AI Makes Airport Security Faster, More Secure Artificial Intelligence][7] | StartU |
+| 08 July 2015 | [Introducing Emoji Autocomplete][17] | Venmo Blog |
+| 08 July 2014 | [Introducing Background Nearby with iBeacons][16] | Venmo Blog |
 
 [1]: https://thestartu.com/nala-offers-internet-free-mobile-payments-to-sub-saharan-africa/
 [2]: https://thestartu.com/mylabox-enables-b2c-international-e-commerce/
@@ -32,3 +34,5 @@
 [13]: https://medium.com/@dasmer/not-your-normal-secret-santa-a-creative-christmas-commemoration-36d183b866b1
 [14]: https://medium.com/petal/introducing-insights-to-further-increase-transparency-81f4308273d1
 [15]: https://medium.com/petal/unsubscribing-from-unconscious-spend-a61e1066088c
+[16]: http://blog.venmo.com/engineering/2014/7/8/introducing-background-nearby-with-ibeacons
+[17]: http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/2015/5/14/introducing-emoji-autocomplete
