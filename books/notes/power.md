@@ -80,3 +80,36 @@ Ensure that those in power:
 - Think well of you because you can make them feel good about themselves
 
 Performance + Political Skill → Helps you rise through the ranks
+
+
+## Chapter 2: The Personal Qualities That Bring Influence
+To be able to obtain and hold onto influence:
+1. Believe personal change is always possible
+1. See your strengths and weaknesses as objectively as possible
+1. Understand qualities for building a power base so we can focus our time and attention on building them
+
+### Change is always possible
+It might be easier to learn skills as a kid, but it's never too late. You can cultivate the personal attributes that create influence at any age.
+*John (GSB Student) Anecdote* John projected confidence and self-assurance during interviews. Scored 7 offers. A number of those offering jobs said he stood out from his peers through his behavior.
+
+
+### Do an objective self-assessment
+Realize your strengths and weaknesses to develop the behaviors to create influence.
+It's hard to be self-critical on the past. Instead, we can focus on what we *need to do* to get ready for subsequent positions and career challenges we will confront.
+
+We don't know what we're not skilled at. We should ask those who are more skilled for honest advice on what our holes are.
+This requires admitting that we have holes and that we are ignorant to what these holes are. That's not easy.
+People that admit to being ignorant to holes and ask for advice on how to fill them are the ones that are more likely to improve on gaining influence.
+
+
+## Seven important personal qualities that build power
+Two fundamental dimensions that distinguish people who rise to great heights and accomplish amazing things
+- Will
+  - Ambition
+  - Energy
+  - Focus
+- Skill
+  - Self Knowledge
+  - Reflective Mindset
+  - Confidence
+  - The ability to project self-assurance
