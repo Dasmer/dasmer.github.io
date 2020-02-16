@@ -112,4 +112,21 @@ Two fundamental dimensions that distinguish people who rise to great heights and
   - Self-Knowledge
   - Reflective Mindset
   - Confidence
-  - The ability to project self-assurance
+  - Ability to project self-assurance
+
+#### Ambition
+An unwavering focus to achieve goals. Not getting hung up on the imperfect.
+
+#### Energy
+1. Energy is contagious. It inspires more effort on the part of others. People are more willing to expend effort if you are too.
+1. Energy makes people go longer (excitement + less sleep). This is an advantage in getting things accomplished. Many studies show that exceptional accomplishment requires laborious preparation (many many many hours)
+1. People often promote those with energy because it signals commitment and loyalty.
+
+We can practice developing energy. Internship / Residency does this for doctors, for example. Working out mid-day might do it for some people.
+
+#### Focus
+There are several dimensions to focus.
+
+- Specialization in an industry or company. This leads to more deep knowledge of the space and also more connections.
+- Concentration on a limited set of activities or functional skills. If genius requires large number of hours, you can acquire those hours in less elapsed time by focusing your attention more narrowly.
+- Concentrate on those activities that are most critical within your particular job or position. These activities are the ones that have the most impact on getting work done and on others perceptions of you and your effectiveness. Focus on the 5-10% of of possible duties that  have the most leverage to manage time effectively.
