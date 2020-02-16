@@ -6,8 +6,8 @@ By Jeffery Pfeffer
 ### Introduction
 
 #### Anecdotes
-*Anne Anecdote* Anne made herself scarce (taking classes in engineering school where there's one MBA for every 4 engineers). She showed patience by suggesting a different target market but not forcing it. When the team failed, they saw her value. She did this with presentations and financial projections as well. She had the group appreciate her and realize that she could make a credible threat to quit by letting the group know about her consulting offer. When looking for a CEO, Anne introduced the group to other MBAs, knowing that they're probably most comfortable with her given all the rapport she had built with them. She eventually became co-CEO.
-*Beth Anecdote* Beth had a less favorable post-MBA trajectory. She thought the world was fair and she was unwilling to play organizational politics (self-handicapping)
+**Anne Anecdote** Anne made herself scarce (taking classes in engineering school where there's one MBA for every 4 engineers). She showed patience by suggesting a different target market but not forcing it. When the team failed, they saw her value. She did this with presentations and financial projections as well. She had the group appreciate her and realize that she could make a credible threat to quit by letting the group know about her consulting offer. When looking for a CEO, Anne introduced the group to other MBAs, knowing that they're probably most comfortable with her given all the rapport she had built with them. She eventually became co-CEO.
+**Beth Anecdote** Beth had a less favorable post-MBA trajectory. She thought the world was fair and she was unwilling to play organizational politics (self-handicapping)
 
 Empirical Research confirms that being politically savvy and seeking power are related to career success and managerial performance.
 
@@ -33,7 +33,7 @@ A study shows there were substantial misstatements on more than 40% of resumes.
 Follow social science and your own experience. Not Leadership Literature.
 
 #### Get out of your own way
-*Self-Handicapping* People desire to feel good about themselves and their ability. Failure puts our self-esteem at risk. So if we intentionally choose to do things that might diminish our performance, any subsequent poor results can be explained away as not reflecting our innate abilities.
+**Self-Handicapping** People desire to feel good about themselves and their ability. Failure puts our self-esteem at risk. So if we intentionally choose to do things that might diminish our performance, any subsequent poor results can be explained away as not reflecting our innate abilities.
 ie: I didn't get it because I didn't try.
 People do this with being political. I didn't rise to the top because I didn't try.
 
