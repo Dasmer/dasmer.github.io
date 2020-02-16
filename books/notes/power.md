@@ -41,3 +41,42 @@ People do this with being political. I didn't rise to the top because I didn't t
 
 1. Try what you learn
 1. Model behavior of effective people you read about.
+
+
+### Chapter 1: It Takes More Than Performance
+As long as you keep your boss happy, performance does not matter that much. If you upset them, performance won't save you.
+
+#### The weak link between performance and job outcomes
+Supervisors that choose their subordinates rate them more highly than subordinates they inherited.
+Confirmation Bias: Chose > Inherited > Did not initially support.
+Age, tenure, educational credentials, race and gender have a higher contribution to promotion and salary growth than does job performance.
+
+#### Get noticed
+Higher ups are too busy to keep track of what you're doing.
+*Ensure those in higher levels know what you're accomplishing* If you blend in like the foundation of a house, being efficient and effective but not visible, you will go unnoticed.
+**Mere Exposure Effect** People prefer what they know to what they don't know. *Being memorable equals getting picked.*
+
+#### Define the dimensions of performance
+**Tina Brown Anecdote** Tina, an editor, made a name for herself and the magazines at a high expense - no profit. For her, she defined metric of performance as popularity and acclaim. She made it for herself and for the magazines. She denied a flawed business model, stating the magazines had great content and advertising was growing despite recession.
+
+**Chris, Startup CEO, Anecdote** Chris's SaaS company needed more services to compete. He didn't have the skills to lead that effort. Knowing this, he decreased prices before renewal and told his board that this leads to more customer lock in and increases valuation. The presentation reduced focus on *why* the price drops were necessary. He defined his own metric: customer lock-in. Company sold, he made $4M, and the company eventually languished for being a poor product.
+
+#### Remember what matters to your boss
+Ask those in power what aspects of the job they think are the most crucial and how they see what you ought to be doing.
+
+#### Make others feel better about themselves
+Don't criticize your boss. If your boss makes a mistake, let someone else point it out.
+Flatter those in power because people like it AND because it engages the norm of reciprocity.
+**Jack Valenti (aide to LBD) Anecdote** Valenti flattered Johnson by consistently showing him loyalty and agreeing with him.
+
+Most people underestimate the effectiveness of flattery and therefore underutilize it. Most of the time, people believe that it is at once sincere and accurate, leaving them under the influence of the flatterer. There might be a point at which flattery becomes ineffective, but Professor Jennifer Chatman at UC Berkeley couldn't find it in her data.
+
+The people responsible for your success are those above you - with the power to promote or block your rise up the organizational chart. These people are way more influential to your success than your job performance, which may not even be necessary. Your job is to ensure those above you have a strong desire to make you succeed.
+
+#### Chapter Summary
+Ensure that those in power:
+- Notice the good work you do
+- Remember you
+- Think well of you because you can make them feel good about themselves
+
+Performance + Political Skill → Helps you rise through the ranks
