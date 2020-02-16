@@ -3,6 +3,7 @@ By Jeffery Pfeffer
 
 ## Notes
 
+
 ### Introduction
 
 #### Anecdotes
