@@ -102,14 +102,14 @@ This requires admitting that we have holes and that we are ignorant to what thes
 People that admit to being ignorant to holes and ask for advice on how to fill them are the ones that are more likely to improve on gaining influence.
 
 
-## Seven important personal qualities that build power
+### Seven important personal qualities that build power
 Two fundamental dimensions that distinguish people who rise to great heights and accomplish amazing things
 - Will
   - Ambition
   - Energy
   - Focus
 - Skill
-  - Self Knowledge
+  - Self-Knowledge
   - Reflective Mindset
   - Confidence
   - The ability to project self-assurance
