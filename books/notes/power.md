@@ -129,4 +129,32 @@ There are several dimensions to focus.
 
 - Specialization in an industry or company. This leads to more deep knowledge of the space and also more connections.
 - Concentration on a limited set of activities or functional skills. If genius requires large number of hours, you can acquire those hours in less elapsed time by focusing your attention more narrowly.
-- Concentrate on those activities that are most critical within your particular job or position. These activities are the ones that have the most impact on getting work done and on others perceptions of you and your effectiveness. Focus on the 5-10% of of possible duties that  have the most leverage to manage time effectively.
+- Concentrate on those activities that are most critical within your particular job or position. These activities are the ones that have the most impact on getting work done and on others perceptions of you and your effectiveness. Focus on the 5-10% of possible duties that have the most leverage to manage time effectively.
+
+#### Self-Knowledge
+*Joe Beneducci Anecdote* Attained a high level at a young age through extensive reading and structured self-reflection.
+*Dr Maidique Anecdote*  Leadership habits that made him effective: Making notes about decisions, meetings and other intreactions and reflecting on what he had done well or poorly so he could improve his skills
+
+There's no learning and personal development without reflection. Structured reflection takes time. It requires the **discipline** to concentrate, makes notes, and think about what you are doing.
+
+#### Confidence
+Because power is likely to cause people to behave in a more confident fashion, observers will associate confident behavior with actually having power. Coming accorss as confident and knowledgable helps you build influence.
+*Amanda Anecdote* Amanda went to management school. Coming out she was drafting an email to her company sponsors. A friend strengthened the tone, making it clear Amanda aspired to the senior executive ranks and was looking for a career that would get here there. Her company liked her confident approach and expressions of ambitious career aspirations. That's how career executives behave and Amanda was just like them ✅.
+
+#### Empathy with others
+What sometimes gets in the way of putting ourselves in the shoes of others is too much focus on the end goal and our own objectives and not enough concern for recruiting others to our side. Think about *Laura Esserman UCSF Breast Cancer Center Anecdote*.
+Putting yourself in the other's place is one of the best ways to advance your own goals.
+
+#### Capacity to tolerate conflict
+Workplace bullying persists because it's extremely effective for the perpetrator. This is because most people are conflict-averse and avoid difficult situations.
+*If you can handle difficult conflict and stress-filled situations, you have an advantage over most people*
+Being mean and tough is a power play.
+
+### Intelligence
+Intelligence helps in building reputation and in job performance but often holds the seesds of people's downfall because of overconfidence and insensitivity.
+
+Intelligence can make acquiring and holding onto influence less likely.
+Exceptionally smart people
+- think they can do everything on their own and fail to bring allies that could be helpful along with them.
+- can be overconfident and arrogant
+- can be intimidating
