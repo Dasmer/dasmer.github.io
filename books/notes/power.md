@@ -109,10 +109,10 @@ Two fundamental dimensions that distinguish people who rise to great heights and
   - Energy
   - Focus
 - Skill
-  - Self-Knowledge
-  - Reflective Mindset
-  - Confidence
-  - Ability to project self-assurance
+  - Self-Knowledge (Reflective Mindset)
+  - Confidence (Ability to project self-assurance)
+  - Empathy with others
+  - Capacity to tolerate conflict
 
 #### Ambition
 An unwavering focus to achieve goals. Not getting hung up on the imperfect.
