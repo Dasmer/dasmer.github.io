@@ -14,6 +14,7 @@
 
 | Date           | Event                 | Type          | Location                       | Rank | Racer Count | Time    | Pace  |
 | -------------- | --------------------- | ------------- | ------------------------------ | ---  | ------------| ------- | ----- |
+| 09 Feb 2020    | [Miami Marathon][14]    | Marathon (Completed 20.1mi / 26.2mi) | Miami, FL | DNF    | 20000+ | DNF | DNF |
 | 01 Jan 2020    | [Commitment Day 5K][16]    | 5K | Long Island, NY | 4    | 70+        | 21:05 | 06:46 |
 | 08 Sept 2019    | [Long Island 5K Run][13]    | 5K (Actual: 3.63M) | Eisenhower Park, Woodhaven, NY | 3    | 100+        | 24:40 | 06:47 |
 | 01 June 2019   | [Bass Lake Yosemite Tri][12] | 5K     | Bass Lake Yosemite, CA                | [6][12b]    | 75           | 21:25   | 6:54 |
@@ -51,5 +52,6 @@
 [12]: http://www.basslaketri.com/
 [12b]: http://www.cincyhalfmarathon.com/Results/basslake19.5k.htm
 [13]: https://runsignup.com/Race/NY/EastMeadow/LongIslandRun5k
+[14]: https://www.themiamimarathon.com/
 [15]: https://www.nyrr.org/races/2020unitedairlinesnychalf
 [16]: https://www.facebook.com/events/793622614389155
