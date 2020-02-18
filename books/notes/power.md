@@ -158,3 +158,27 @@ Exceptionally smart people
 - think they can do everything on their own and fail to bring allies that could be helpful along with them.
 - can be overconfident and arrogant
 - can be intimidating
+
+
+## Chapter 3: Choosing Where to Start
+Where you build your career matters. Where you start affects your salary growth.
+Common mistake: Join department dealing with the org's current core activity -> There's already a lot of talented competition there. Their career paths there are already established.
+
+### Unexpected Paths to Power
+*Yusuf at SAP Anecdote* Lucky and serendipitous, but with intention.
+
+*Whiz Kids at Ford Anecdote* Strategic to join Ford
+Whiz Kids had the following:
+1. Advanced degrees + elite credentials
+1. Analytical orientation -> Appearance of rationality for a troubled company
+1. Could talk like Wall Street -> Important when Ford was going public
+1. Centrality in Consequential Decisions -> Finance moved talented people into other areas of co. to extend influence. It controlled agendas and flow of information. They determined performance evaluation process at company.
+
+### What makes some departments more powerful than others
+- Common bonds of communication with trust that come through shared experiences.
+- Critical resources (money + skills)
+As demands change, so does the locus of power in a company.
+When *Yusuf* came to SAP, designing software wasn't the problem that needed solving. There were already brilliant engineers.
+SAP or competitior already had the Large Enterprise market covered. Needed to expand. *Central Strategic Focus and Marketing Approach* was the Need. That's what Yusuf covered by heading CCT.
+When *Whiz Kids* came to Ford, design + engineering weren't critical (there were barely any cars on the road so people bought whatever was built).
+Analytical skills and high education were the most important at Ford at the time.
