@@ -8,6 +8,13 @@
 | Date           | Event                                  | Type          | Location                       |
 | -------------- | -------------------------------------- | ------------- | ------------------------------ |
 | 15 March 2020 | [New York City Half Marathon][15] | Half Marathon | New York, NY |
+| 10 May 2020 | [Japan Run][17] | 4mi | Central Park, New York, NY |
+| 31 May 2020 | [Italy Run][18] | 5mi | Central Park, New York, NY |
+| 03 June 2020  | [NYRR Global Running Day 5K][19] | 5K | Central Park, New York, NY |
+| 18 July 2020  | [TCS New York City Marathon Training Series 10M][20] | 10M | Central Park, New York, NY |
+| 20 Sept 2020 | [New Balance Bronx 10 Mile][21] | 10mi | Bronx, New York, NY |
+| 11 October 2020 | [Staten Island Half Marathon][22] | Half Marathon | Staten Island, NY |
+
 
 
 ## Past Races
@@ -55,3 +62,9 @@
 [14]: https://www.themiamimarathon.com/
 [15]: https://www.nyrr.org/races/2020unitedairlinesnychalf
 [16]: https://www.facebook.com/events/793622614389155
+[17]: https://www.nyrr.org/races/japanrun4m
+[18]: https://www.nyrr.org/races/italyrunbynutellacafe5m
+[19]: https://www.nyrr.org/races/nyrrglobalrunningday5k
+[20]: https://www.nyrr.org/races/tcsnewyorkcitymarathontrainingseries10m
+[21]: https://www.nyrr.org/races/newbalancebronx10mile
+[22]: https://www.nyrr.org/races/nyrrstatenislandhalf
