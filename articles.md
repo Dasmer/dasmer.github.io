@@ -1,8 +1,8 @@
 <!-- Mixpanel --><script src="mixpanel_init_dasmer-com.js"></script><script type="text/javascript">mixpanel.track("Articles - View");</script>
 | Date           | Title                 | Platform          |
 | -------------- | --------------------- | ------------- |
-| 13 Feb 2020 | [Unsubscribing from Unconscious Spend][15] | Medium |
-| 13 Jan 2020 | [Introducing ‘Insights’ to further increase transparency][14] | Medium |
+| 13 Feb 2020 | [Unsubscribing from Unconscious Spend][15] | Petal Medium |
+| 13 Jan 2020 | [Introducing ‘Insights’ to further increase transparency][14] | Petal Medium |
 | 27 Dec 2019 | [Not Your Normal Secret Santa — A Creative Christmas Commemoration][13] | Medium |
 | 08 July 2019 | [A practical example of Search written in SwiftUI][12] | Medium |
 | 23 Mar 2019 | [Empty Tables — Restaurant Technology][11] | Medium |
