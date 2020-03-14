@@ -182,3 +182,88 @@ When *Yusuf* came to SAP, designing software wasn't the problem that needed solv
 SAP or competitior already had the Large Enterprise market covered. Needed to expand. *Central Strategic Focus and Marketing Approach* was the Need. That's what Yusuf covered by heading CCT.
 When *Whiz Kids* came to Ford, design + engineering weren't critical (there were barely any cars on the road so people bought whatever was built).
 Analytical skills and high education were the most important at Ford at the time.
+
+### Diagnosing Departmental Power
+Those who understand power distribution and networks in organizations have more power.
+Below are some indicators of power.
+
+#### Relative pay
+Starting salaries and pay of the more senior positions in departments connote relative power.
+
+#### Physical location and facilities
+A department being in HQ means it is more powerful.
+Having a nicer office means more power.
+Getting an office upgraded or renovated is a sign of power.
+
+#### Positions − on committees and in senior management
+The division of the person who is most likely to be on the board who is not the CEO is also a way to understand which division at the company is strongest.
+
+### The Trade-Off: A strong power base versus less competition
+Being in a powerful department provides advantages for income and career, but for that very reason its also in higher demand.
+This is also true for companies. Think *Apple* and it being first to small computers (back when people thought it was too small to be powerful). Now small computer products are legit, but a highly competitive market.
+*Anne Moore* became chairman/CEO of Time Inc. After HBS, she joined a dying unit. She was a standout in a dying unit. Being a woman in a man's sports magazine also helped her visibility.
+
+You are better of in a different department with more new opportunity all things being equal than you are joining a strong unit to begin with.
+
+
+## Chapter 4: Getting In: Standing Out and Breaking Some Rules
+
+*Keith Ferrazzi* when choosing between McKinsey and Deloitte asked the head of Deloitte for dinner.
+Asked him for dinner once a year.
+
+People are afraid of being turned down, seeming arrogant or audacious.
+
+People don't ask for what they want and are afraid of standing out too much because they worry others may resent or dislike their behavior.
+
+You need to get over the idea that you need to be liked by everybody and that likability is important in creating a path to power. You need to be willing to put yourself forward.
+
+*Reginald Lewis* matriculated at HLS, only person to do so without an application.
+
+### Asking works
+
+A student asked for a meal once a year with head of firm. Head agreed to once a month!
+Another student asked his new boss on first day to get lunch together to start forging a positive personal relationship.
+
+#### Asking works but people find it uncomfortable
+1. Inconsistent with US emphasis on self reliance
+1. People afraid of rejection because of what being turned down might do to self-esteem
+1. People make requests based on the likelihood of it being granted because they don't like rejection
+
+People don't think of the cost of saying no to a request. Rejecting an appeal for help violates an implicit and socially desirable norm of being benevolent. Turning down a request is awkward.
+
+#### Asking Is flattering
+When asking
+- Enhance feeling of self-esteem
+- Show what you share in common
+
+### Don't be afraid to stand out and break the rules
+- Early in your career when you are seeking initial positions that differentiate yourself from the competition
+- Henry Kissinger, when a student Harvard, wrote a 383 page thesis. After that a rule was made that it should be no longer than 100 pages
+
+Brand Recall: You need to be interesting and memorable and able to stand out in ways that cause others to want to know you and get close to you
+
+The rules tend to favor those who make them. Doing things differently permits even heavily outsourced underdogs to triumph.
+
+### Likability is overrated
+Negative book reviewers are perceived as more intelligent, competent, and expert than positive reviewers.
+People may opposed you, but when they realize you can hurt them, they'll join your side.
+
+#### Likability can power, but Power almost certainly creates likability
+Students wear their school jersey more after a win than after a loss. They refer to the team a 'we' after a win a lot more often.
+People support you if you seem to be winning
+
+#### What's likability got to do with anything?
+If someone isn't likable it doesn't mean that they're not powerful. People will still be attracted to them if they can be helpful to them.
+If we act friendly toward an adversary because they can be helpful to us, overtime we feel more friendly to them as well.
+
+#### People forget and forgive
+The pain of the past is forgotten (childbirth / surgery). Same for people that have caused pain too.
+We are more likely to forgive / forget people that we remain in contact with. The power powerful someone is, the more likely you are to remain in contact with them.
+
+### Chapter Summary
+
+1. Standing out helps you get the jobs and power you may seek
+1. Asking for what you need and being less concerned about what other are thinking can help in launching your path to power
+Acquiring and wielding power requires the resource to reward your friends and punish your enemies
+
+## Chapter 5: Make Something out of nothing: Creating resources
