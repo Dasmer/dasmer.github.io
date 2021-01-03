@@ -2,7 +2,7 @@
 
 ### Adding Plainview Gurdwara app to home screen on iPhone
 1. Click [plainviewgurdwara.glideapp.io](plainviewgurdwara.glideapp.io)
-1. Tap on the **Share** icon located at the bottom of the page
+1. Tap on the <span style="color:orange">**Share**</span> icon located at the bottom of the page
 1. Tap the **Add to Home Screen** button
 1. Tap the **Add** button at the top right corner of the screen
 1. **Done!** You should now see the app on your iPhone's homescreen. You can tap it at anytime to access the app.
