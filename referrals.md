@@ -1,7 +1,7 @@
 <!-- Mixpanel -->
 <script src="mixpanel_init_dasmer-com.js"></script><script type="text/javascript">mixpanel.track("Referral Codes");</script>
 
-## Referral Codes
+## Give X, Get Y Referral Codes
 
 | App               | Promo            |  Link          |  
 | --------------  | ------------- | ------------- |
