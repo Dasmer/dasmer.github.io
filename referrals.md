@@ -6,7 +6,7 @@
 | App               | Promo            |  Link          |  
 | --------------  | ------------- | ------------- |
 | Privacy.com | $5 | [privacy.com/join/44FYN][1] |
-| Tesla | 1000 Miles | [ts.la/dasmer30638][8] |
+| Tesla | 🔋🔌 1000 Miles | [ts.la/dasmer30638][8] |
 | Google Pay | $5 | [g.co/payinvite/2873a7f][7] |
 | SoFi Invest | $50 | [sofi.com/share/invest/4185648][2] |
 | SoFi Money | $50 | [sofi.com/invite/money?gcp=2ba2c6a8-86fc-485b-8c2a-5439d94c3c88][3] |
