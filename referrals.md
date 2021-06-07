@@ -9,7 +9,7 @@
 | Google Pay | $5 | [g.co/payinvite/2873a7f][7] |
 | SoFi Invest | $50 | [sofi.com/share/invest/4185648][2] |
 | SoFi Money | $50 | [sofi.com/invite/money?gcp=2ba2c6a8-86fc-485b-8c2a-5439d94c3c88][3] |
-| Square Cash | $5 | [cash.app/app/PFZQTBT] [6] |
+| Square Cash | $5 | [cash.app/app/PFZQTBT][6] |
 | Venmo | $5 | [get.venmo.com/COmfsYsCTgb][5] |
 | Uber Eats | $20 | [ubereats.com/feed?promoCode=eats-6tb7m][4] |
 
